@@ -1,0 +1,19 @@
+GET - to receive the data
+POST - to send the data to backend (save)
+PUT - is used to edit the existing data 
+
+PATCH -  is used to edit one single key in the object
+
+
+
+steps to setup json server 
+
+1 . install json sever using command
+2.  create db.json file in the root folder
+3. run the command - npx json-server db.json => this will start the server
+
+
+
+
+post => using input field (dynami)
+get => list out all the data's in the array - folder

@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "name": "sabari",
+      "role": "software engineer with AI expertise",
+      "id": "NQaQBJ1XTgs"
+    },
+    {
+      "name": "Venkatesh",
+      "role": "Designer",
+      "id": "xyKm5PcLInI"
+    },
+    {
+      "name": "Nishanth",
+      "role": "Developer",
+      "id": "nUlwipMqeDw"
+    },
+    {
+      "name": "Dharshan",
+      "role": "Developer",
+      "id": "ZDMDGi6Wsg4"
+    },
+    {
+      "name": "kumar",
+      "email": "example@gmail.con",
+      "id": "NhYE51pvkqk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
